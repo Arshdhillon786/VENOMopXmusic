@@ -8,7 +8,6 @@ pytube
 wget
 python-dotenv
 search-engine-parser
-tgcrypto
 youtube-search-python==1.5.1
 youtube-search
 cryptography
