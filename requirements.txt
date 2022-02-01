@@ -23,7 +23,7 @@ psutil
 pykeyboard
 pyromod
 requests
-speedtest-cli
+git+https://github.com/Arshdhillon786/dvsvfbfeb@master
 uvloop
 git+https://github.com/ITZ-ZAID/yt-download@master
 telegraph
