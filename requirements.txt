@@ -4,7 +4,7 @@ asyncio
 ffmpeg-python
 pillow
 git+https://github.com/pyrogram/pyrogram@master
-py-tgcalls==0.8.1rc1
+git+https://github.com/Arshdhillon786/lavdalello@master
 pytube
 wget
 python-dotenv
@@ -12,7 +12,7 @@ search-engine-parser
 tgcrypto
 youtube-search-python==1.5.1
 youtube-search
-speedtest-cli
+git+https://github.com/Arshdhillon786/dvsvfbfeb@master
 cryptography
 dnspython
 future
