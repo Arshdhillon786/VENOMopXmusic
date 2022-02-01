@@ -4,6 +4,7 @@ asyncio
 ffmpeg-python
 pillow
 git+https://github.com/pyrogram/pyrogram@master
+py-tgcalls==0.8.1rc1
 pytube
 wget
 python-dotenv
@@ -11,6 +12,7 @@ search-engine-parser
 tgcrypto
 youtube-search-python==1.5.1
 youtube-search
+speedtest-cli
 cryptography
 dnspython
 future
@@ -21,8 +23,9 @@ psutil
 pykeyboard
 pyromod
 requests
+speedtest-cli
 uvloop
-https://github.com/Arshdhillon786/lavdalp@master
+git+https://github.com/ITZ-ZAID/yt-download@master
 telegraph
 heroku3
 ffmpeg
